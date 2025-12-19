@@ -62,11 +62,11 @@ Top death count
 WHO region distribution
 
 
-Acknowledgement
+Acknowledgement:
 This project was completed as part of my self-learning journey. I used AI guidance along with Python documentation and online resources to complete the project and understand the analysis workflow.
 
 
-Conclusion
+Conclusion:
 This COVID-19 dataset analysis provides a quick overview of how the pandemic affected countries differently, based on infection and death counts.
 The analysis highlights significant variations in confirmed cases and death rates across the globe. It successfully identifies global health hotspots and provides a clear overview of the pandemic's impact using data science tools.
 The project is designed for learning and academic purposes using beginner-friendly Python data analysis tools.
